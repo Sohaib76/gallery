@@ -111,6 +111,30 @@
       "compressed_path": "./photos/App Designs/60581569_453160165481374_7149234357117386752_n.min.png",
       "compressed": false,
       "placeholder_path": "./photos/App Designs/60581569_453160165481374_7149234357117386752_n.placeholder.png"
+    },
+    {
+      "width": 720,
+      "height": 1280,
+      "path": "./photos/App Designs/whatapp1.png",
+      "compressed_path": "./photos/App Designs/whatapp1.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/App Designs/whatapp1.placeholder.png"
+    },
+    {
+      "width": 720,
+      "height": 1280,
+      "path": "./photos/App Designs/whatapp2.png",
+      "compressed_path": "./photos/App Designs/whatapp2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/App Designs/whatapp2.placeholder.png"
+    },
+    {
+      "width": 720,
+      "height": 1280,
+      "path": "./photos/App Designs/whatapp3.png",
+      "compressed_path": "./photos/App Designs/whatapp3.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/App Designs/whatapp3.placeholder.png"
     }
   ],
   "Illustrations and Rendering": [
