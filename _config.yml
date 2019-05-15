@@ -19,7 +19,7 @@ layout_style: ROWS
 spacing: 10
 
 # Boolean(true|false): Shuffle the photos in the album
-shuffle: false
+shuffle: true
 
 # Integer: Number of columns for square or columns
 columns: 4
@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: andy.fuji
+instagram: 
 
 ######################
 # END OF CONFIG CODE #
@@ -39,13 +39,13 @@ instagram: andy.fuji
 name: Gallery
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Photography Portfolio
+description: Graphic Designing Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Andy Zhang
+author: Sohaib Zafar
 
 # Your email if you want it to be linked on the contact page
-author_email: andzhng@gmail.com
+author_email: 6sohaib@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
