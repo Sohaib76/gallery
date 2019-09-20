@@ -1,14 +1,6 @@
 {
   "App Designs": [
     {
-      "width": 2663,
-      "height": 1880,
-      "path": "./photos/App Designs/2pages (2).png",
-      "compressed_path": "./photos/App Designs/2pages (2).min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/App Designs/2pages (2).placeholder.png"
-    },
-    {
       "width": 720,
       "height": 1280,
       "path": "./photos/App Designs/60150666_2314895582164911_4979439470706163712_n.png",
@@ -241,14 +233,6 @@
       "compressed_path": "./photos/Illustrations and Rendering/TwoPencils (1).min.png",
       "compressed": false,
       "placeholder_path": "./photos/Illustrations and Rendering/TwoPencils (1).placeholder.png"
-    },
-    {
-      "width": 562,
-      "height": 290,
-      "path": "./photos/Illustrations and Rendering/Visiting Card.png",
-      "compressed_path": "./photos/Illustrations and Rendering/Visiting Card.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Illustrations and Rendering/Visiting Card.placeholder.png"
     }
   ]
 }
